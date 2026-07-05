@@ -1,47 +1,86 @@
-<h1 align="center">Hallo, ich bin Flo 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Developer</b> · Gründer von <a href="https://github.com/Nowaroid-Studios">Nowaroid Studios</a>
-</p>
+# 👋 Hallo, ich bin Flo
 
-<p align="center">
-  <a href="mailto:DEINE@EMAIL.DE"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="LINK"><img src="https://img.shields.io/badge/Website-1F6FEB?style=flat&logo=aboutdotme&logoColor=white" alt="Website"/></a>
-</p>
+### Developer · Gründer von [Nowaroid Studios](https://github.com/Nowaroid-Studios)
 
----
+[![Nowaroid Studios](https://img.shields.io/badge/Studio-Nowaroid-1F6FEB.svg)](https://github.com/Nowaroid-Studios)
+[![Focus](https://img.shields.io/badge/Focus-Private%20Development-blue.svg)](https://github.com/Nowaroid)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/Nowaroid)
 
-### 👨‍💻 Über mich
+</div>
 
-- 🔭 Ich arbeite gerade an **NRSCore** bei Nowaroid Studios
-- 🛠️ Zuletzt gebaut: **Backuper**
-- 🌱 Ich lerne derzeit **[Technologie/Thema eintragen]**
-- 💬 Frag mich gerne zu **[deine Schwerpunkte]**
+###
 
----
+## 🎯 Über mich
 
-### 🛠️ Tech Stack
+Ich entwickle aus Leidenschaft – mit Anspruch an **Clean Code** und durchdachte **Systemarchitektur**. Meine Projekte entstehen unter dem Dach von **Nowaroid Studios**, meinem privaten Entwickler-Studio.
 
-<!-- Passe die Badges an das an, womit du wirklich arbeitest -->
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- 🔭 Aktuell an **[NRSCore](https://github.com/Nowaroid-Studios/NRSCore)** am Arbeiten
+- 🛠️ Schwerpunkte: **Discord-Automation**, **Game-Server-Infrastruktur** & **Web-Entwicklung**
+- 🌱 Immer am Experimentieren mit neuen Technologien
+- 💬 Frag mich gerne zu Backend-Systemen & Bot-Entwicklung
 
----
+###
 
-### 📊 GitHub Statistiken
+<h3 align="left">💻 Programmiersprachen</h3>
 
-<p align="center">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+</div>
+
+###
+
+<h3 align="left">🛠️ Tools & Programme</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+</div>
+
+###
+
+## 📊 GitHub Statistiken
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nowaroid&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowaroid&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowaroid&hide_border=true&theme=tokyonight" alt="Streak Stats" height="165"/>
+</div>
 
-### 📌 Projekte
+###
+
+## 📂 Projekte
 
 | Projekt | Beschreibung |
 |---------|--------------|
 | [**NRSCore**](https://github.com/Nowaroid-Studios/NRSCore) | [kurze Beschreibung eintragen] |
 | [**Backuper**](https://github.com/Nowaroid/Backuper) | [kurze Beschreibung eintragen] |
+
+---
+
+<div align="center">
+
+<sub>Made with ❤️ and ☕ · Entwicklung aus Leidenschaft, nicht aus Profit.</sub>
+
+</div>
