@@ -55,14 +55,6 @@ Ich entwickle aus Leidenschaft – mit Anspruch an **Clean Code** und durchdacht
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 </div>
 
-###
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowaroid&hide_border=true&theme=tokyonight" alt="Streak Stats" height="180"/>
-</div>
-
 ---
 
 <div align="center">
