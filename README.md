@@ -60,22 +60,12 @@ Ich entwickle aus Leidenschaft – mit Anspruch an **Clean Code** und durchdacht
 ## 📊 GitHub Statistiken
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nowaroid&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowaroid&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowaroid&hide_border=true&theme=tokyonight" alt="Streak Stats" height="180"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nowaroid&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowaroid&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowaroid&hide_border=true&theme=tokyonight" alt="Streak Stats" height="165"/>
-</div>
-
-###
-
-## 📂 Projekte
-
-| Projekt | Beschreibung |
-|---------|--------------|
-| [**NRSCore**](https://github.com/Nowaroid-Studios/NRSCore) | [kurze Beschreibung eintragen] |
-| [**Backuper**](https://github.com/Nowaroid/Backuper) | [kurze Beschreibung eintragen] |
 
 ---
 
