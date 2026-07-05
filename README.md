@@ -1,12 +1,6 @@
 <div align="center">
 
-# 👋 Hallo, ich bin Flo
-
-### Developer · Gründer von [Nowaroid Studios](https://github.com/Nowaroid-Studios)
-
-[![Nowaroid Studios](https://img.shields.io/badge/Studio-Nowaroid-1F6FEB.svg)](https://github.com/Nowaroid-Studios)
-[![Focus](https://img.shields.io/badge/Focus-Private%20Development-blue.svg)](https://github.com/Nowaroid)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/Nowaroid)
+<img src="https://github.com/user-attachments/assets/23bbd98c-adbb-4a75-bb15-890d8f60264a" alt="Nowaroid Banner" width="100%" />
 
 </div>
 
