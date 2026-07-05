@@ -57,14 +57,10 @@ Ich entwickle aus Leidenschaft – mit Anspruch an **Clean Code** und durchdacht
 
 ###
 
-## 📊 GitHub Statistiken
+## 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowaroid&hide_border=true&theme=tokyonight" alt="Streak Stats" height="180"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nowaroid&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowaroid&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
 ---
